@@ -1,0 +1,19 @@
+1. To Add page, creat a new Model (car), add properties stating segments eg. id, Name etc.
+
+2. Creates it Controller in the controller folder eg. CarsController.cs to add logic
+
+3.In the CarController, change the class name to your prefered name (Random) & create a new instance(OOP style) of the Car class eg. var car = new Car() { Name = "Audi" }; 
+ 
+4.Create a new View file in the Car folder in the View file to show in webpage - select the _layout.cshtml in the window
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
